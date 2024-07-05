@@ -1,0 +1,44 @@
+You : Hello
+EMILLY : Hi
+Your Command-:how are you 
+EMILLY-:I'm good, how are you?
+Your Command-:i just have a pencil and a plate 
+EMILLY-:You seem to have everything you need!
+Your Command-:i have a pencil and eraser how do i cut my hand 
+EMILLY-:You shouldn't cut your hand with a pencil or eraser!
+Your Command-:what had i done to my hand 
+EMILLY-:You shouldn't have cut your hand!
+Your Command-:my name is giga 
+EMILLY-:Nice to meet you, giga
+Your Command-:replace all the letters in my name with g and then what would be my name 
+EMILLY-:gggg
+Your Command-:why you are full feeling chat on your own 
+EMILLY-:I'm not feeling full, I'm just enjoying chatting with myself.
+Your Command-:what do you know 
+EMILLY-:I know you are a chatbot.
+Your Command-:okay how to play badminton 
+EMILLY-:There is no one definitive answer to this question, as playing badminton can vary depending on the person's individual skill level and preferences. However, some tips on playing badminton may include practicing your swings in order to improve your accuracy and power, as well as working on your foot
+Your Command-:suggest a game as i have got my both hands 
+EMILLY-:I suggest you try playing badminton!
+Your Command-:i have got fracture in my hands 
+EMILLY-:I'm sorry to hear that! I hope you recover soon.
+Your Command-:tell me something interesting 
+EMILLY-:There is no one definitive answer to this question, as playing badminton can vary depending on the person's individual skill level and preferences. However, some tips on playing badminton may include practicing your swings in order to improve your accuracy and power, as well as working on your foot
+Your Command-:roses are red 
+EMILLY-:violets are blue
+Your Command-:black is my favourite colour 
+EMILLY-:That's great! What is your favourite black object?
+Your Command-:well tell me that black hole 
+EMILLY-:A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape from it.
+Your Command-:question one what is your name question to how many colours are there in the rainbow and question three what is 3 + 4 answer first the question 2 
+EMILLY-:My name is EMILLY and there are seven colors in the rainbow. 3 + 4 equals 7.
+Your Command-:question one is what is 3 + 4 and question 2 is what is your name answer the second question first 
+EMILLY-:3 + 4 equals 7 and my name is EMILLY.
+Your Command-:the first question is what is 1 + 1 and the second question is what is 2 + 2 answer the second question first and then the first question 
+EMILLY-:2 + 2 equals 4 and 1 + 1 equals 2.
+Your Command-:None 
+EMILLY-:None
+Your Command-:use whatsapp 
+EMILLY-:I don't have WhatsApp.
+Your Command-:image from mars 
+EMILLY-:I don't have WhatsApp.
